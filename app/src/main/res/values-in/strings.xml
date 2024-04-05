@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assesment 1</string>
+    <string name="input_invalid">Tidak boleh kosong.</string>
+    <string name="share_template">Hasil konversi tegangan:\n\nNilai tegangan: %1$s\nUnit tegangan awal: %2$s\nUnit tegangan tujuan: %3$s\n\nHasil konversi: %4$s\n\n</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="kembali">Kembali</string>
+    <string name="developer_info">Nama: Aruno Bagaskoro\nNIM: 6706223143
+</string>
+    <string name="voltage_conversion_app_description">Voltage Conversion adalah aplikasi proyek mini yang memungkinkan pengguna untuk dengan cepat dan mudah mengkonversi nilai tegangan antara tiga unit pengukuran yang berbeda: Volt (V), Kilovolt (kV), dan Megavolt (MV). Dengan tiga input yang diperlukan - nilai tegangan, unit awal, dan unit tujuan - pengguna dapat menghitung konversi tegangan dengan lancar sesuai kebutuhan. Aplikasi ini memberikan kemudahan dan kepraktisan dalam mengelola perhitungan tegangan, menjadikannya alat yang berguna bagi teknisi, insinyur, atau siapa pun yang terlibat dalam pekerjaan yang melibatkan peralatan listrik dan elektronik.</string>
+    <string name="nama">Nama: Aruno Bagaskoro</string>
+    <string name="nim">NIM: 6706223143</string>
+
+    <string name="calculate_conversion">Hitung Konversi</string>
+    <string name="conversition_result">Hasil Konversi: %1$s</string>
+    <string name="voltage">Tegangan</string>
+    <string name="voltage_conversion">Konversi Tegangan</string>
+    <string name="unit_voltage">Satuan Tegangan</string>
+    <string name="reset">Reset</string>
+</resources>

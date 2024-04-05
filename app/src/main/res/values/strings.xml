@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assessment 1</string>
+    <string name="input_invalid">Cannot be empty.</string>
+    <string name="share_template">Voltage conversion result:\n\nVoltage value: %1$s\nUnit voltage from: %2$s\nUnit voltage to: %3$s\n\nConversion result: %4$s\n\n</string>
+    <string name="tentang_aplikasi">About Application</string>
+    <string name="kembali">Back</string>
+    <string name="developer_info">Name: Aruno Bagaskoro\nNIM: 6706223143
+</string>
+    <string name="voltage_conversion_app_description">Voltage Conversion is a mini project application that allows users to quickly and easily convert voltage values between three different units of measurement: Volt (V), Kilovolt (kV), and Megavolt (MV). With three required inputs - the voltage value, the unit of origin, and the target unit - users can smoothly calculate voltage conversions as needed. This application provides convenience and practicality in managing voltage calculations, making it a useful tool for technicians, engineers, or anyone involved in work involving electrical and electronic equipment.</string>
+    <string name="nama">Name: Aruno Bagaskoro</string>
+    <string name="nim">NIM: 6706223143</string>
+    <string name="calculate_conversion">Calculate Conversion</string>
+    <string name="conversition_result">Conversion Result: %1$s</string>
+    <string name="voltage">Voltage</string>
+    <string name="voltage_conversion">Voltage Conversion</string>
+    <string name="unit_voltage">Unit Voltage</string>
+    <string name="reset">Reset</string>
+</resources>
